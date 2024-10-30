@@ -1,4 +1,4 @@
-import Button from "@/components/button";
+
 import Header from "@/components/header";
 import Hero from "@/components/hero";
 
