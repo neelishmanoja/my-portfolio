@@ -16,7 +16,7 @@ export default function projects(){
                         <Image src={amazon} alt="amazon logo"/></Link>
                     </div>
                     <div className="h-[185px] w-96 border-purple-600 border-4 flex justify-center mt-7" >
-                    <Link href="https://github.com/neelishmanoja/hackathon-milstones/tree/main/milestone1">
+                    <Link href="https://milstones1-2.vercel.app/">
                     <Image src={resume} alt="resume"/></Link>
                     </div>
                 </div>
