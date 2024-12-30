@@ -26,7 +26,7 @@ export default function Hero() {
                         <p className="  text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500 font-bold text-4xl h-12 sm:text-[45px] sm:h-14 lg:text-6xl lg:h-20">Neelish manoja</p>
                         </div>
                     </div>
-                    <div className=" grid grid-cols-2 md:grid-cols-4 gap-y-5 lg:gap-4 mt-6 sm:mt-10 w-80 md:w-[500px]">
+                    <div className=" grid grid-cols-2 md:grid-cols-4 gap-y-5 lg:gap-44 mt-6 sm:mt-10 w-80 md:w-[500px]">
                         <div className="hover:scale-110 duration-300 capitalize active:scale-100"><Link href="/skills">  <Button text="My skills" /> </Link></div>
                         <div className="hover:scale-110 duration-300 capitalize active:scale-100"><Link href="/about"><Button text="About" /></Link> </div>
                         <div className="hover:scale-110 duration-300 capitalize active:scale-100"><Link href="/projects"><Button text="Projects" /></Link></div>

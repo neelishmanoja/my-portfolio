@@ -1,6 +1,6 @@
 import Header from "@/components/header";
 import amazon from "@/public/amazon.jpeg"
-import resume from "@/public/static resume.png"
+import resume from "@/public/staticresume.png"
 import Image from "next/image";
 import Link from "next/link";
 
@@ -15,7 +15,7 @@ export default function projects(){
                         <Link href="https://amazon-chi-plum-59.vercel.app/">
                         <Image src={amazon} alt="amazon logo"/></Link>
                     </div>
-                    <div className="h-[155px] w-80 md:w-[350px] md:h-[167px] lg:w-[450px] lg:h-[214px] border-purple-600 border-4 flex justify-center mt-7 md:mb-4" >
+                    <div className="h-[155px] w-80 md:w-[350px] md:h-[167px] lg:w-[450px] lg:h-[210px] border-purple-600 border-4 flex justify-center mt-7 md:mb-4" >
                     <Link href="https://milstones1-2.vercel.app/">
                     <Image src={resume} alt="resume"/></Link>
                     </div>

@@ -1,8 +1,4 @@
-import Image from "next/image";
-import facebook from "@/public/facebook.svg"
-import instagram from "@/public/instagram.svg"
-import github from "@/public/github1.jpg"
-import Link from "next/link";
+
 import Header from "@/components/header";
 import { FaFacebook } from "react-icons/fa";
 import { FaLinkedin } from "react-icons/fa";
