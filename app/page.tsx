@@ -6,13 +6,9 @@ import Hero from "@/components/hero";
 export default function Home() {
   return (
     
-    <main className="w-screen h-screen">
+    <main className="w-full h-full">
       <Header text="My porfolio."/>
-      <div className="flex w-full h-full bg-cover bg-center" style={{backgroundImage:"url(/main-bg.webp)"}}>
       <Hero/>
-      
-        
-      </div>
       
             
             
