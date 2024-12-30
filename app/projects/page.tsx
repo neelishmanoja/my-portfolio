@@ -1,6 +1,6 @@
 import Header from "@/components/header";
 import amazon from "@/public/amazon.jpeg"
-import resume from "@/public/staticresume.png"
+import resume from "@/public/static resume.png"
 import Image from "next/image";
 import Link from "next/link";
 
